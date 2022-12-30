@@ -1,0 +1,32 @@
+.post{
+    width:40%;
+    margin:auto;
+    background-color: white;
+    margin-bottom:60px;
+    margin-top:10px;
+}
+.feed  {
+    background-color: grey;
+}
+.grey {
+    color:grey;
+    margin-left: 70%;
+}
+.image {
+    width:100%;
+    height:400px;
+}
+.header {
+    margin-left: 5px;
+    margin-bottom: 2px;
+    padding-top: 2px;
+}
+.peahead{
+    display:flex;
+}
+.text{
+    margin:2px;
+}
+.title {
+    margin-left: 35%;
+}
